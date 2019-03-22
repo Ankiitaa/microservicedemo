@@ -12,7 +12,7 @@ Microservices
 ![](https://img.shields.io/codecov/c/github/Ankiitaa/microservicedemo.svg?branch=master.svg?style=flat)
 
 ![](https://img.shields.io/snyk/vulnerabilities/github/Ankiitaa/microservicedemo.svg?style=popout)
-![](https://img.shields.io/github/issues/stackroute/boeing-wave4-knowledgehub.svg?style=popout)
+![](https://img.shields.io/github/issues/Ankiitaa/microservicedemo.svg?style=popout)
 
 ![](https://img.shields.io/github/contributors/Ankiitaa/microservicedemo.svg?style=popout)
 ![](https://img.shields.io/github/last-commit/Ankiitaa/microservicedemo/master.svg?style=popout)

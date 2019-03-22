@@ -7,7 +7,7 @@ Microservices
 
 [![Build Status](https://travis-ci.org/Ankiitaa/microservicedemo.svg?branch=master)](https://travis-ci.org/Ankiitaa/microservicedemo)
 
-[![Coverage Status](https://coveralls.io/repos/github/Ankiitaa/microservicedemo/badge.svg?branch=master)](https://coveralls.io/github/Ankiitaa/microservicedemo)
+[![Coverage Status](https://codecov.io/repos/github/Ankiitaa/microservicedemo/badge.svg?branch=master)](https://coveralls.io/github/Ankiitaa/microservicedemo)
 
 
 The above microservices are deployed together using docker-compose
